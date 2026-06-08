@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage{amsmath}
 \usepackage[utf8]{inputenc}
+\usepackage{graphicx}
 
 \title{Learn LaTeX}
 \author{Joshua Albert}
@@ -9,6 +10,69 @@
 \begin{document}
 \maketitle
 
+\section{Introduction}
+This is a simple LaTeX document to demonstrate how to use LaTeX for typesetting mathematical equations and creating structured documents.
 
+\section{Writing Formulas}
+Let's begin with a formula $e^{i\pi} + 1 = 0$, which is known as Euler's identity. It beautifully connects five fundamental mathematical constants: $e$, $i$, $\pi$, $1$, and $0$.
 
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
+
+\begin{enumerate}
+
+\item We can do another:
+$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$
+
+\item We can also write matrices:
+$$\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}$$
+
+\item We can also use continuous fractions:
+$$x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + \cdots}}}$$
+
+\end{enumerate}
+
+\begin{itemize}
+
+\item We can do another:
+$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$
+
+\item We can also write matrices:
+$$\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}$$
+
+\item We can also use continuous fractions:
+$$x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + \cdots}}}$$
+
+\end{itemize}
+
+\section{More Formulas}
+\begin{itemize}
+
+\item Integral:
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
+
+\item Triple integral:
+$$\iiint_{a}^{b} \int_{c}^{d} f(x,y) \, dx \, dy$$
+
+\item Vector:
+$$\vec{v} = \begin{bmatrix} v_1 \\ v_2 \\ v_3 \end{bmatrix}$$
+
+\item Limit:
+$$\lim_{x \to \infty} \frac{1}{x} = 0$$
+
+\item Matrix:
+
+$$\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}$$
+
+\includegraphics[width=0.5\textwidth]{example-image-a}
+
+\end{itemize}
 \end{document}
