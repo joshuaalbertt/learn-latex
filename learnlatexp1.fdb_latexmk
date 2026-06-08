@@ -1,10 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1780931423.47003 "c:/Users/Joshua Albert/Downloads/Learn-Latex/learnlatexp1.tex" "learnlatexp1.pdf" "learnlatexp1" 1780931423.92754 0
+["pdflatex"] 1780931787.56489 "c:/Users/Joshua Albert/Downloads/Learn-Latex/learnlatexp1.tex" "learnlatexp1.pdf" "learnlatexp1" 1780931788.06345 0
   "C:/Users/Joshua Albert/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1780930457.36689 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Joshua Albert/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1780930686.79905 24228857 0a343a5a26689e3d059ce11ea6b71949 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
-  "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -16,8 +15,6 @@
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
-  "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 179c33bbf43f19adbb3825bb4e36e57a ""
@@ -30,8 +27,8 @@
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1705273578 5048 425739d70251273bf93e3d51f3c40048 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "c:/Users/Joshua Albert/Downloads/Learn-Latex/learnlatexp1.tex" 1780931422.2343 336 6c64b4fa308fd1875cd7d7f324b1a159 ""
-  "learnlatexp1.aux" 1780931423.83035 136 55925f1cfec6acf35deb2e0d2b09fa4c "pdflatex"
+  "c:/Users/Joshua Albert/Downloads/Learn-Latex/learnlatexp1.tex" 1780931786.89644 192 8a970239b92021f4d47e6c3ea796488a ""
+  "learnlatexp1.aux" 1780931787.95611 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "learnlatexp1.aux"
   "learnlatexp1.log"
