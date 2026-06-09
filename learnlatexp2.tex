@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[top=1in]{geometry}
+
+\title{Learning LaTeX (Part 2)}
+\author{Joshua Albert}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Formatting Text}
+This is some formatted text.
+\begin{itemize}
+\item Bold = \textbf{Hi Everyone!}
+\item Italic =\textit{Hi Everyone!}
+\item Underline = \underline{Hi Everyone!}
+\end{itemize}
+
+\section{Equation References}
+\begin{equation}
+    \int_{a}^{b} f(x) \, dx = F(b) - F(a)
+    \label{c}
+\end{equation}
+Equation \ref{c} was really cool! (Example)
+
+\section{Align, Split, and Multiple Equations}
+\begin{align}
+    \sqrt{90} &= x^{c} \\
+    a^2 + b^2 &= c^2
+\end{align}
+
+
+
+\end{document}
