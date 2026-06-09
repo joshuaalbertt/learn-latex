@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1780996041.79148 "c:/Users/Joshua Albert/Downloads/Learn-Latex/learnlatexp1.tex" "learnlatexp1.pdf" "learnlatexp1" 1780996042.3207 0
-  "C:/Users/Joshua Albert/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1780935815.01393 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1780999677.76956 "c:/Users/Joshua Albert/Downloads/Learn-Latex/learnlatexp1.tex" "learnlatexp1.pdf" "learnlatexp1" 1780999678.45899 0
+  "C:/Users/Joshua Albert/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1780996753.70891 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Joshua Albert/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1780932916.99105 11548 f94b83fd4b6c68d2463aa73fab99d264 ""
   "C:/Users/Joshua Albert/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1780930686.79905 24228857 0a343a5a26689e3d059ce11ea6b71949 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
@@ -50,7 +50,7 @@
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/Joshua Albert/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "c:/Users/Joshua Albert/Downloads/Learn-Latex/learnlatexp1.tex" 1780996041.18122 1710 0a3f9469e227a46be8177c40537e4ab5 ""
-  "learnlatexp1.aux" 1780996042.18298 337 3ae8628f550fb1282b9b93285adfce17 "pdflatex"
+  "learnlatexp1.aux" 1780999678.27621 337 3ae8628f550fb1282b9b93285adfce17 "pdflatex"
   (generated)
   "learnlatexp1.aux"
   "learnlatexp1.log"
